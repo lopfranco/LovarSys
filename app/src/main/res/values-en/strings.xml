@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CTC</string>
+    <string name="bienvenidos">Welcome</string>
+    <string name="btnEntrar">Get in</string>
+</resources>
